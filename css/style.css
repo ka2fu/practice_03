@@ -592,6 +592,10 @@ footer {
     height: 80px;
   }
 
+  .submit-btn {
+    -webkit-appearance: none;
+  }
+
   footer {
     background-color: #c6c6c6;
     width: 100vw;
